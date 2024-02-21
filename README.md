@@ -1,5 +1,5 @@
 # Welcome to Denver's Coding Quiz
-TThe objective of this project is to test coders' knowledge of HTML, CSS, and JavaScript fundamentals. Coders will answer multiple-choice questions and receive a final score, based on their performance. The project is built using HTML, CSS, and JavaScript.
+The objective of this project is to test coders' knowledge of HTML, CSS, and JavaScript fundamentals. Coders will answer multiple-choice questions and receive a final score, based on their performance. The project is built using HTML, CSS, and JavaScript.
 
 ## Features
 Multiple-choice questions on HTML, CSS, and JavaScript elements.
